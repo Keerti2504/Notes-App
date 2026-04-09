@@ -1,4 +1,4 @@
-# 📝 Smart Notes App
+# 📝 Notes App
 
 A lightweight Android note-taking app built entirely in Jetpack Compose with SQLite for persistent local storage. 💾✨
 
